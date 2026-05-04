@@ -16,27 +16,27 @@ Respuesta: Acceder al lenguaje JavaScript
 
 3. ¿Qué hace el comando node algoritmo-verificacion.js?
 
-Respuesta:
+Respuesta: Ejecuta el archivo algoritmo-verificacion.js
 
 4. ¿Qué es una variable?
 
-Respuesta:
+Respuesta: Son espacios en la memoria donde se almacenan datos los cuales pueden cambiar
 
 5. ¿Para qué se usa const?
 
-Respuesta:
+Respuesta: Son variabels las cuale tienen valores los cuales no pueden cambiar 
 
 6. ¿Para qué se usa let?
 
-Respuesta:
+Respuesta: Son variables los cuales tienen valores que pueden cambiar
 
 7. ¿Qué significa if?
 
-Respuesta:
+Respuesta: Es una estructura condicional que se ejecuta cuando se cumple una condición 
 
 8. ¿Qué significa else?
 
-Respuesta:
+Respuesta: Es parte de la estructura condicional que aparece cuando if no se cumple
 
 9. ¿Por qué una decisión en programación se parece a una decisión responsable en internet?
 
