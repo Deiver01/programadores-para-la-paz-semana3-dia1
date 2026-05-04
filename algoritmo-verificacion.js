@@ -10,3 +10,4 @@ if (informacionVerificada === true) {
 } else {
   console.log("La información no debe compartirse todavía.")
 }
+
